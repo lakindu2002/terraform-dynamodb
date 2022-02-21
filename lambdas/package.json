@@ -1,0 +1,11 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "lakindu",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1077.0"
+  }
+}
